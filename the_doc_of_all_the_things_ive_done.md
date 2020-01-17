@@ -1,5 +1,5 @@
 # What I did here:
----
+
 Here is a list of all the things I did
 ## Timeline:
 ### A short overview/timeline.
@@ -11,10 +11,10 @@ Here is a list of all the things I did
 3. Asked to think about and fill out a document discussing how I would like to be managed and the structure of our 1-1s.
 4. Started my first addition to the `api_syncs` repo. Building out a sync between NGP and Mobile Commons that would eventually be striked and turned into Actblue to Mobile Commons. I started with the NGP class scructure that used a restructed view of NGP data. More explanation will be given.
 5. Reworking a sql script to flag donors for refunds because we weren't excepting donations from lobbyists and employees various companies, etc.
+6. Finished NGP to Mobile Commons Sync, I ran into a bug that took me so long to figure out and it was because I was using a new environment and didn't even catch a that my tabs were too wide.
 
 #### Weeks 4-6
 
-1. 
 
 ## Explanation of most important things in more detail:
 ### 1. Thing 1
