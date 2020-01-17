@@ -4,7 +4,7 @@
 
 ### June 2019 - January 2020
 
-- Built and maintained data syncs between voter information and our mail and messaging platforms
+- Built and maintained data syncs between voter information and our mail and messaging platforms.
 - Helped design a serverless API prototype for a grassroots donor wall in 24 hours. Then designed the scalable API to be maintained for the foreseeable future.
 - Wrote serverless code to collect data on groups and mentions from the APIs of social media apps, Twitter and Facebook.
 - Implemented and maintained parts of the campaign website like the search for your contributions based on email, a pop up modal on the front page, and worked to make the site more accessible to tabbing and screen readers.
